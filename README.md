@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RyanCenal
+- 👋 Hi, I’m Ryan Ceñal
 - 👀 I’m interested in learning about programming 
 - 🌱 I’m currently learning Html, Css and Java script
 - 💞️ I’m looking to collaborate on creating web developing and cyber security
